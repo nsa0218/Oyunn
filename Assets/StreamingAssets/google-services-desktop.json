@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53031202573",
+    "firebase_url": "https://hobaa-93e46-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hobaa-93e46",
+    "storage_bucket": "hobaa-93e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53031202573:android:3f5481e84ade2963370a44",
+        "android_client_info": {
+          "package_name": "com.EnesG.Hobaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53031202573-u0o0sff0almot8ht7tnr6gf6jnvgmj7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.EnesG.Hobaa",
+            "certificate_hash": "736a0134595945a72175a46bde4b5e2077c6defd"
+          }
+        },
+        {
+          "client_id": "53031202573-i3drj8tvop3c4f92m0ft2djql45tsdcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lWLk2KF1zTaGwnjB3XXO3xmubqCTnvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53031202573-av05snerk1366kbenrp95gl5oq7p9rs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
